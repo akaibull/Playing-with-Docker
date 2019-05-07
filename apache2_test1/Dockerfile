@@ -7,4 +7,4 @@ ENV APACHE_LOG_DIR /var/log/apache2
 
 EXPOSE 80
 
-CMD ["/usr/sbin/apache2","-D","FOREGROUND"]
+CMD ["apachectl", "-D", "FOREGROUND"]
