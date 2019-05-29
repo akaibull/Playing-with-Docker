@@ -1,1 +1,1 @@
-# docker2.0 repository with never and better approach
+# docker2.0 repository with newer and better approach
